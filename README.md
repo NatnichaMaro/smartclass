@@ -1,3 +1,3 @@
 # smartclass
 
-This is a people counting project in the CPE 495 classroom at SPU.
+This is a people counting project in the CPE495 classroom at SPU.
